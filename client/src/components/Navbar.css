@@ -1,0 +1,23 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 3px solid greenyellow;
+    align-items: center;
+    padding: 0px 15px;
+    background-color: grey;
+}
+.navLink {
+    text-decoration: none;
+    color: black;
+    margin: 0px 10px;
+    background-color: greenyellow;
+    box-shadow: 2px 2px 2px 2px black;
+    padding: 5px;
+}
+.navLink:hover {
+    color: blue;
+}
+.logo {
+    color: greenyellow;
+    font-family: 'Common Pixel', sans-serif;                                                                
+}

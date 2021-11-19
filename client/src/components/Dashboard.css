@@ -1,0 +1,29 @@
+.coin {
+    background-color: darkgray;
+    border-radius: 10px;
+    width: 50vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 10px auto;
+    height: 100px;
+    border: 1px solid greenyellow;
+}
+.coin:hover {
+    transform: scale(1.25);
+    box-shadow: 2px 2px 2px 1px black;
+}
+.dogeimg {
+    width: 75px;
+}
+
+.dash {
+    align-items: center;
+}
+
+.coinpic {
+    width: 20%;
+}
+.bitcoinpic{
+    width: 20%;
+}
